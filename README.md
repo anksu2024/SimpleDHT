@@ -9,7 +9,7 @@ TEST SCRIPTS: The test scripts (Depending on the Operating System) can be downlo
 
 NOTE: FYR the project specifications (Resources) and Test Scripts are also provided in the Respective Folders
 
-8 STEPS TO REALIZE THIS PROJECT:
+8 SIMPLE STEPS TO REALIZE THIS PROJECT:
 
 1) Set present working directory as "Test Scripts" directory.
 
